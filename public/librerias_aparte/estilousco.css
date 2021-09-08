@@ -1,0 +1,65 @@
+/** ESTILO BOTON PRIMARY **/
+ .btn-usco-primary {
+     color: #fff;
+     background-color: #8F141B;
+ }
+
+ .btn-usco-primary:focus,
+ .btn-usco-primary:hover {
+     color: #fff;
+     background-color: #5C0E12;
+ }
+
+ a.navbar-brand {
+     color: #fff;
+ }
+
+ .navbar-brand:hover {
+     color: #fff;
+ }
+
+ .btn.focus,
+ .btn:focus {
+     box-shadow: 0 0 0 .2rem rgba(0, 0, 0, 0.25);
+ }
+
+ /** FIN ESTILO BOTON PRIMARY **/
+
+
+
+
+ /** ESTILO NAVBAR **/
+ .bg-primary-usco {
+     color: #fff;
+     background-color: #5C0E12;
+ }
+ /** FIN ESTILO NAVBAR **/
+
+
+
+
+
+  /** ESTILO CARDS **/
+  .poco-padding {
+    padding: 0.4rem;
+}
+/** FIN ESTILO CARDS **/
+
+
+
+
+ /** ESTILO INPUT TEXT **/
+ .form-control:focus {
+     box-shadow: 0 0 0 .2rem rgb(237, 240, 222);
+     border-color: #DFD4A6;
+ }
+ /** FIN ESTILO INPUT TEXT **/
+ 
+ .mifondo-danger{
+ 	background-color: #8F141B;
+ 	color: #fff;
+ }
+ 
+ .letra90porc{
+ 	font-size:90%;
+ }
